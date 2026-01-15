@@ -36,7 +36,7 @@ I believe in **clean code**, **continuous learning**, and building **real-world 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ### 🗄️ Databases  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
@@ -60,12 +60,12 @@ I believe in **clean code**, **continuous learning**, and building **real-world 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Biradarmahadev&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biradarmahadev&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biradarmahadev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -79,8 +79,8 @@ I believe in **clean code**, **continuous learning**, and building **real-world 
 ---
 
 ## 🤝 Let’s Connect  
-- 💻 GitHub: *You’re already here*  
-- 🌱 Open to learning, collaboration, and opportunities  
+- 💻 GitHub: https://github.com/Biradarmahadev  
+- 🌱 Open to learning, collaboration, and new opportunities  
 
 ---
 
