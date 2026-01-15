@@ -1,21 +1,20 @@
 # 👋 Hi, I'm Mahadev  
 
-## 🚀 Software Engineer | Backend Developer | AI/ML & GenAI Enthusiast  
+## 🚀 Software Engineer | Backend Developer | AI/ML & Generative AI Enthusiast  
 
-I am a **Software Engineer** passionate about **Backend Development**, **Artificial Intelligence**, **Machine Learning**, and **Generative AI**.  
-I enjoy building **scalable backend systems**, designing **RESTful APIs**, and developing **intelligent, data-driven applications**.
+I am a **Software Engineer** with a strong interest in **Backend Development**, **Artificial Intelligence**, **Machine Learning**, and **Generative AI**.  
+I enjoy building **scalable backend systems**, designing **RESTful APIs**, and creating **intelligent, data-driven applications**.
 
-I strongly believe in **clean architecture**, **continuous learning**, and solving **real-world problems** through technology.
+I believe great software is built with **clean architecture**, **continuous learning**, and a strong focus on **real-world problem solving**.
 
 ---
 
-## 🧠 Core Interests  
-- Backend Development & Microservices  
-- AI / Machine Learning  
-- Generative AI  
-- REST API Design  
-- Database Design & Optimization  
-- CI/CD & SDLC  
+## 🧠 What I Do  
+- Build scalable **backend applications & microservices**  
+- Design and develop **RESTful APIs**  
+- Work on **AI/ML & Generative AI projects**  
+- Follow **Agile methodology** and full **SDLC**  
+- Write clean, maintainable, and documented code  
 
 ---
 
@@ -49,29 +48,48 @@ I strongly believe in **clean architecture**, **continuous learning**, and solvi
 
 ---
 
+## 🎓 Certifications & Badges  
+
+> Industry-recognized certifications that support my technical expertise.
+
+### 🏅 External Certifications  
+<!-- Replace CERTIFICATE_LINK with your actual certificate URLs -->
+
+[![Python Certification](https://img.shields.io/badge/Python-Certified-blue?style=for-the-badge&logo=python)](CERTIFICATE_LINK)
+
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-Certified-orange?style=for-the-badge&logo=google)](CERTIFICATE_LINK)
+
+[![Backend Development](https://img.shields.io/badge/Backend_Development-Certified-green?style=for-the-badge&logo=spring)](CERTIFICATE_LINK)
+
+[![Generative AI](https://img.shields.io/badge/Generative_AI-Certified-purple?style=for-the-badge&logo=openai)](CERTIFICATE_LINK)
+
+---
+
 ## 📂 Featured Projects  
 
 ### 🔹 Backend Projects  
-- **REST API using Spring Boot**  
-  - Secure APIs with authentication  
-  - MySQL database integration  
-  - Clean layered architecture  
+**Spring Boot REST API**  
+- Secure authentication & authorization  
+- MySQL database integration  
+- Layered architecture (Controller, Service, Repository)  
 
-- **Django Backend Application**  
-  - CRUD operations  
-  - REST APIs using Django REST Framework  
-  - Authentication & authorization  
+**Django REST Backend**  
+- CRUD operations  
+- Django REST Framework  
+- Token-based authentication  
 
-### 🔹 AI / ML / GenAI Projects  
-- **AI-based Fault Prediction System**  
-  - Machine learning models for fault detection  
-  - Simulation-based data generation  
+---
 
-- **ML & Data Analysis Projects**  
-  - Data preprocessing & visualization  
-  - Model training & evaluation  
+### 🔹 AI / ML / Generative AI Projects  
+**AI-Based Fault Prediction System**  
+- ML models for fault detection  
+- Simulation-based dataset generation  
+- Model evaluation & analysis  
 
-> 📌 *More projects coming soon — stay tuned!*
+**Machine Learning & Data Analysis**  
+- Data preprocessing & visualization  
+- Feature engineering  
+- Model training & validation  
 
 ---
 
@@ -103,9 +121,9 @@ I strongly believe in **clean architecture**, **continuous learning**, and solvi
 ---
 
 ## 🎯 Career Goals  
-- Become a **Backend & AI-focused Software Engineer**  
-- Build **scalable production-ready systems**  
-- Work on **AI-driven applications**  
+- Backend Engineer with strong **AI/ML expertise**  
+- Build **production-ready scalable systems**  
+- Work on **AI-driven real-world applications**  
 - Contribute to **open-source communities**  
 
 ---
@@ -116,4 +134,4 @@ I strongly believe in **clean architecture**, **continuous learning**, and solvi
 
 ---
 
-⭐ **If you like my work, don’t forget to star ⭐ my repositories!**
+⭐ **If you like my work, please consider starring ⭐ my repositories!**
