@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=700&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Mahadev;Senior+Backend+%26+AI+Engineer;Architecting+Scalable+Cloud-Native+Systems;Generative+AI+%7C+LLMs+%7C+Microservices" alt="Mahadev - Advanced Typing SVG" />
   <br><br>
 
-  <!-- Professional Banner GIF (futuristic / developer theme) -->
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="85%" alt="Futuristic Developer Workspace Animation" />
-  <br><br>
-
-  <!-- Profile Photo / Avatar (replace src with your actual photo link) -->
-  <img src="https://previews.123rf.com/images/dotshock/dotshock1903/dotshock190300016/118962281-portrait-of-young-indian-successful-male-software-developer-sitting-on-desk-at-modern-startup-office.jpg" width="180" height="180" style="border-radius:50%;border:4px solid #00D4FF;box-shadow:0 0 25px rgba(0,212,255,0.4)" alt="Mahadev - Software Engineer" />
-  <br><br>
 
   <h3>🚀 Backend Engineer | AI & Generative AI Specialist | Cloud-Native Architect</h3>
   <p>Building high-performance, scalable systems with clean architecture and intelligent features powered by modern AI.</p>
