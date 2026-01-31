@@ -23,12 +23,13 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Updated)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -39,6 +40,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -46,6 +48,17 @@
 
 ---
 
+### 📊 Skills Radar & Proficiency (Updated with AWS, GenAI/LLMs, DSA, MySQL/PostgreSQL/NoSQL)
+
+```mermaid
+pie title Core Skill Distribution (2026)
+    "Python & Django" : 20
+    "Java & Spring Boot" : 15
+    "AWS Cloud & DevOps" : 15
+    "Generative AI / LLMs" : 15
+    "DSA & Algorithms" : 10
+    "Databases (MySQL/PostgreSQL/NoSQL)" : 15
+    "REST APIs & Microservices" : 10
 ### 🔥 Featured Projects
 
 #### 🍔 AI-Powered Food Delivery Backend Platform  
@@ -96,8 +109,8 @@
 
 <p align="center">
   <a href="https://github.com/Biradarmahadev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mahadev.biradar@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mahadev-ravindra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:engineer.mrsbk@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
