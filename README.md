@@ -1,137 +1,112 @@
-# 👋 Hi, I'm Mahadev  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahadev;Backend+Developer+%26+AI+Enthusiast;Building+Scalable+Systems+%26+Intelligent+Apps" alt="Typing SVG" />
+  <br/><br/>
+  <img src="https://github.com/Biradarmahadev/Biradarmahadev/blob/main/assets/banner.gif?raw=true" width="800" alt="Animated Developer Banner"/>
+  <br/><br/>
+  
+  <p>
+    <strong>🚀 Software Engineer | Backend Specialist | AI/ML & Generative AI Enthusiast</strong><br/>
+    Passionate about clean architecture, scalable systems, and intelligent applications.
+  </p>
 
-## 🚀 Software Engineer | Backend Developer | AI/ML & Generative AI Enthusiast  
-
-I am a **Software Engineer** with a strong interest in **Backend Development**, **Artificial Intelligence**, **Machine Learning**, and **Generative AI**.  
-I enjoy building **scalable backend systems**, designing **RESTful APIs**, and creating **intelligent, data-driven applications**.
-
-I believe great software is built with **clean architecture**, **continuous learning**, and a strong focus on **real-world problem solving**.
-
----
-
-## 🧠 What I Do  
-- Build scalable **backend applications & microservices**  
-- Design and develop **RESTful APIs**  
-- Work on **AI/ML & Generative AI projects**  
-- Follow **Agile methodology** and full **SDLC**  
-- Write clean, maintainable, and documented code  
+  <img src="https://komarev.com/ghpvc/?username=Biradarmahadev&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+### 🧠 About Me
 
-### 👨‍💻 Programming Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-
-### ⚙️ Backend Frameworks  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-
-### 🌐 Web Technologies  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### 🗄️ Databases  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### 🔗 Tools & Practices  
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
+- 🔭 Currently building **production-grade backend systems** and **AI-powered applications**
+- 🌱 Deeply exploring **Generative AI**, **LLM integration**, and **scalable microservices**
+- 💡 I believe in **clean code**, **test-driven development**, and **real-world impact**
+- 📫 Reach me: **mahadev.biradar.[your domain]** or via GitHub Discussions
 
 ---
 
-## 🎓 Certifications & Badges  
-
-> Industry-recognized certifications that support my technical expertise.
-
-### 🏅 External Certifications  
-<!-- Replace CERTIFICATE_LINK with your actual certificate URLs -->
-
-[![Python Certification](https://img.shields.io/badge/Python-Certified-blue?style=for-the-badge&logo=python)](CERTIFICATE_LINK)
-
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-Certified-orange?style=for-the-badge&logo=google)](CERTIFICATE_LINK)
-
-[![Backend Development](https://img.shields.io/badge/Backend_Development-Certified-green?style=for-the-badge&logo=spring)](CERTIFICATE_LINK)
-
-[![Generative AI](https://img.shields.io/badge/Generative_AI-Certified-purple?style=for-the-badge&logo=openai)](CERTIFICATE_LINK)
-
----
-
-## 📂 Featured Projects  
-
-### 🔹 Backend Projects  
-**Spring Boot REST API**  
-- Secure authentication & authorization  
-- MySQL database integration  
-- Layered architecture (Controller, Service, Repository)  
-
-**Django REST Backend**  
-- CRUD operations  
-- Django REST Framework  
-- Token-based authentication  
-
----
-
-### 🔹 AI / ML / Generative AI Projects  
-**AI-Based Fault Prediction System**  
-- ML models for fault detection  
-- Simulation-based dataset generation  
-- Model evaluation & analysis  
-
-**Machine Learning & Data Analysis**  
-- Data preprocessing & visualization  
-- Feature engineering  
-- Model training & validation  
-
----
-
-## 📊 GitHub Stats  
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biradarmahadev&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biradarmahadev&theme=tokyonight" height="165"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biradarmahadev&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+### 🔥 Featured Projects
+
+#### 🍔 AI-Powered Food Delivery Backend Platform  
+**Django • Python • RESTful APIs • PostgreSQL**  
+- Full-featured backend for food delivery app  
+- JWT authentication, role-based access (Customer, Delivery, Admin)  
+- Order management, real-time status tracking, restaurant menu CRUD  
+- Scalable architecture with proper separation of concerns  
+
+#### 🏭 Enterprise Order Processing System  
+**Java • Spring Boot • MySQL • JPA/Hibernate**  
+- Robust order lifecycle management system  
+- Multi-stage workflow with validation & transactional integrity  
+- Optimized SQL queries + layered architecture (Controller → Service → Repository)  
+- REST APIs with proper error handling & documentation  
+
+#### 🤖 Generative AI Support Assistant Backend  
+**Python • LangChain / OpenAI API • FastAPI**  
+- AI-powered customer support automation service  
+- Intelligent prompt engineering & conversation memory  
+- Secure API endpoints, logging, rate limiting  
+- Integrated with external ticketing / CRM systems  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biradarmahadev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biradarmahadev&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biradarmahadev&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biradarmahadev&theme=onedark&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Biradarmahadev&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-## 👀 Profile Visitors  
+### 🤝 Let's Connect & Collaborate
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biradarmahadev&style=for-the-badge"/>
+  <a href="https://github.com/Biradarmahadev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mahadev.biradar@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <strong>⭐ If you like my work, feel free to star ⭐ my repositories!</strong><br/>
+  Open to collaborations, freelance opportunities, and cool AI/backend projects.
 </p>
 
 ---
 
-## 🎯 Career Goals  
-- Backend Engineer with strong **AI/ML expertise**  
-- Build **production-ready scalable systems**  
-- Work on **AI-driven real-world applications**  
-- Contribute to **open-source communities**  
-
----
-
-## 🤝 Let’s Connect  
-- 💻 GitHub: https://github.com/Biradarmahadev  
-- 🌱 Open to collaboration, learning, and new opportunities  
-
----
-
-⭐ **If you like my work, please consider starring ⭐ my repositories!**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20you%20for%20visiting!%20🚀&fontSize=30&fontColor=fff&animation=twinkling"/>
+</div>
