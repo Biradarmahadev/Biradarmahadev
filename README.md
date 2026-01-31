@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Enhanced Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=700&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Mahadev;Senior+Backend+%26+AI+Engineer;Architecting+Scalable+Cloud-Native+Systems;Generative+AI+%7C+LLMs+%7C+Microservices" alt="Mahadev - Advanced Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=700&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Mahadev;Junior+Backend+%26+AI+Engineer;Architecting+Scalable+Cloud-Native+Systems;Generative+AI+%7C+LLMs+%7C+Microservices" alt="Mahadev - Advanced Typing SVG" />
   <br><br>
 
 
