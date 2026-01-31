@@ -70,6 +70,19 @@ Focused on designing **production-grade microservices**, **event-driven architec
   <img src="https://img.shields.io/badge/DSA_%26_System_Design-FFD700?style=for-the-badge&logoColor=black" alt="DSA"/>
 </p>
 
+### 📊 Skills Radar & Proficiency  
+(Updated with AWS, GenAI/LLMs, DSA, MySQL/PostgreSQL/NoSQL)
+
+```mermaid
+pie title Core Skill Distribution (2026)
+    "Python & Django" : 20
+    "Java & Spring Boot" : 15
+    "AWS Cloud & DevOps" : 15
+    "Generative AI / LLMs" : 15
+    "DSA & Algorithms" : 10
+    "Databases (MySQL/PostgreSQL/NoSQL)" : 15
+    "REST APIs & Microservices" : 10
+
 ---
 
 ### 🔥 Featured Engineering Projects
