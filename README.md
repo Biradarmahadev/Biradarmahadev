@@ -1,8 +1,7 @@
 <div align="center">
   <!-- Enhanced Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=700&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Mahadev;Junior+Backend+%26+AI+Engineer;Architecting+Scalable+Cloud-Native+Systems;Generative+AI+%7C+LLMs+%7C+Microservices" alt="Mahadev - Advanced Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=700&color=00D4FF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Mahadev;Junior+Backend+%26+AI+Engineer;Architecting+Scalable+Cloud-Native+Systems;Generative+AI+%7C+LLMs+%7C+Microservices" alt="Mahadev - Advanced Typing SVG" />
   <br><br>
-
 
   <h3>🚀 Backend Engineer | AI & Generative AI Specialist | Cloud-Native Architect</h3>
   <p>Building high-performance, scalable systems with clean architecture and intelligent features powered by modern AI.</p>
@@ -43,18 +42,43 @@ Focused on designing **production-grade microservices**, **event-driven architec
 
 ---
 
+### 📊 Skills Proficiency Overview
+
+#### Professional Proficiency Radar (Horizontal Progress Bars)
+
+```mermaid
+graph LR
+    %% Modern colorful styling - recruiter friendly
+    classDef bar fill:#1e40af,stroke:#60a5fa,stroke-width:2px,color:#dbeafe,rx:6px
+    classDef label fill:#111827,stroke:#4b5563,stroke-width:1px,color:#e5e7eb,rx:6px
+
+    A[Python & Django]:::label -->|██████████ 8/10| Z
+    B[Java & Spring Boot]:::label -->|████████ 7/10| Z
+    C[AWS Cloud & DevOps]:::label -->|████████ 7/10| Z
+    D[Generative AI / LLMs]:::label -->|████████ 7/10| Z
+    E[DSA & Algorithms]:::label -->|████████ 7/10| Z
+    F[Databases SQL/NoSQL]:::label -->|██████████ 8/10| Z
+    G[REST APIs & Microservices]:::label -->|████████ 7/10| Z
+
+    style A fill:#1e293b,color:#e5e7eb
+    style B fill:#1e293b,color:#e5e7eb
+    style C fill:#1e293b,color:#e5e7eb
+    style D fill:#1e293b,color:#e5e7eb
+    style E fill:#1e293b,color:#e5e7eb
+    style F fill:#1e293b,color:#e5e7eb
+    style G fill:#1e293b,color:#e5e7eb
+```
+
 ### 🛠️ Technology Arsenal
 
 <p align="center">
-  <!-- Animated / modern badges + some GIF-style where available -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -62,37 +86,27 @@ Focused on designing **production-grade microservices**, **event-driven architec
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
-
 <p align="center">
-  <!-- AI & extra flair -->
   <img src="https://img.shields.io/badge/Generative_AI-FF3366?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
   <img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/DSA_%26_System_Design-FFD700?style=for-the-badge&logoColor=black" alt="DSA"/>
 </p>
 
-### 📊 Skills Proficiency Overview (1–10 scale)
-
-- **Python & Django**                  8/10  
-- **Java & Spring Boot**               7/10  
-- **AWS Cloud & DevOps**               7/10  
-- **Generative AI / LLMs**             7/10  
-- **DSA & Algorithms**                 7/10  
-- **Databases (MySQL/PostgreSQL/NoSQL)** 8/10  
-- **REST APIs & Microservices**        7/10
+---
 
 ### 🔥 Featured Engineering Projects
 
-#### 🍔 AI-Powered Food Delivery Backend Platform  
+#### 🍔 AI-Powered Food Delivery Backend Platform
 **Django • Python • PostgreSQL • Redis • Celery • AWS**  
 Enterprise-grade backend powering real-time order tracking, dynamic pricing, restaurant onboarding, and multi-role RBAC.  
 Implemented JWT + refresh tokens, async task queues for notifications, geospatial queries, webhook integrations.
 
-#### 🏭 Enterprise Order Processing & Workflow Engine  
+#### 🏭 Enterprise Order Processing & Workflow Engine
 **Java • Spring Boot • MySQL • Kafka • JPA/Hibernate • AWS SQS**  
 High-throughput system handling complex order states, inventory reconciliation, payment orchestration, and audit trails.  
 Features ACID transactions, eventual consistency via events, retry mechanisms, comprehensive observability.
 
-#### 🤖 Generative AI Customer Support & Automation Backend  
+#### 🤖 Generative AI Customer Support & Automation Backend
 **FastAPI • Python • LangChain • OpenAI / Anthropic • PostgreSQL + Vector DB**  
 Intelligent support agent with conversation memory, tool-calling, RAG over knowledge base, multi-channel integration (email/Slack/API).  
 Focus on prompt chaining, guardrails, cost/performance optimization, detailed logging & analytics.
