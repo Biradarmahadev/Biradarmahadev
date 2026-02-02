@@ -44,7 +44,7 @@ Focused on designing **production-grade microservices**, **event-driven architec
 
 ### 📊 Skills Proficiency Overview
 
-#### Professional Proficiency Radar
+
 
 ```mermaid
 graph TB
