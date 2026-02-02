@@ -44,29 +44,31 @@ Focused on designing **production-grade microservices**, **event-driven architec
 
 ### 📊 Skills Proficiency Overview
 
-#### Professional Proficiency Radar (Horizontal Progress Bars)
+#### Professional Proficiency Radar
 
 ```mermaid
-graph LR
-    %% Modern colorful styling - recruiter friendly
-    classDef bar fill:#1e40af,stroke:#60a5fa,stroke-width:2px,color:#dbeafe,rx:6px
-    classDef label fill:#111827,stroke:#4b5563,stroke-width:1px,color:#e5e7eb,rx:6px
+graph TB
+    %% ===== Modern Color Palette =====
+    classDef skill fill:#020617,stroke:#334155,stroke-width:1px,color:#e5e7eb,rx:10px
 
-    A[Python & Django]:::label -->|██████████ 8/10| Z
-    B[Java & Spring Boot]:::label -->|████████ 7/10| Z
-    C[AWS Cloud & DevOps]:::label -->|████████ 7/10| Z
-    D[Generative AI / LLMs]:::label -->|████████ 7/10| Z
-    E[DSA & Algorithms]:::label -->|████████ 7/10| Z
-    F[Databases SQL/NoSQL]:::label -->|██████████ 8/10| Z
-    G[REST APIs & Microservices]:::label -->|████████ 7/10| Z
+    classDef barPython fill:#22c55e,stroke:#86efac,stroke-width:2px,color:#052e16,rx:10px
+    classDef barJava fill:#3b82f6,stroke:#93c5fd,stroke-width:2px,color:#0f172a,rx:10px
+    classDef barCloud fill:#06b6d4,stroke:#67e8f9,stroke-width:2px,color:#083344,rx:10px
+    classDef barAI fill:#a855f7,stroke:#d8b4fe,stroke-width:2px,color:#2e1065,rx:10px
+    classDef barDSA fill:#f97316,stroke:#fed7aa,stroke-width:2px,color:#431407,rx:10px
+    classDef barDB fill:#eab308,stroke:#fde047,stroke-width:2px,color:#422006,rx:10px
+    classDef barAPI fill:#ef4444,stroke:#fca5a5,stroke-width:2px,color:#450a0a,rx:10px
 
-    style A fill:#1e293b,color:#e5e7eb
-    style B fill:#1e293b,color:#e5e7eb
-    style C fill:#1e293b,color:#e5e7eb
-    style D fill:#1e293b,color:#e5e7eb
-    style E fill:#1e293b,color:#e5e7eb
-    style F fill:#1e293b,color:#e5e7eb
-    style G fill:#1e293b,color:#e5e7eb
+    %% ===== Skills =====
+    A[🐍 Python & Django]:::skill --> A1[██████████ 8 / 10]:::barPython
+    B[☕ Java & Spring Boot]:::skill --> B1[████████ 7 / 10]:::barJava
+    C[☁️ AWS Cloud & DevOps]:::skill --> C1[████████ 7 / 10]:::barCloud
+    D[🤖 Generative AI / LLMs]:::skill --> D1[████████ 7 / 10]:::barAI
+    E[🧠 DSA & Algorithms]:::skill --> E1[████████ 7 / 10]:::barDSA
+    F[🗄️ Databases SQL / NoSQL]:::skill --> F1[██████████ 8 / 10]:::barDB
+    G[🔗 REST APIs & Microservices]:::skill --> G1[████████ 7 / 10]:::barAPI
+
+
 ```
 
 ### 🛠️ Technology Arsenal
